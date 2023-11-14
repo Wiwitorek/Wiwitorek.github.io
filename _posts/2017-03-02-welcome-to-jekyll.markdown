@@ -1,4 +1,3 @@
-@@ -1,25 +0,0 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
