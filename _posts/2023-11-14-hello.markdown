@@ -2,7 +2,7 @@
 layout: post
 title:  "hello"
 date:   2023-11-14 17:25:13 +0000
-categories: misc
+categories: jekyll update
 ---
 
 welcome to this horrible website
