@@ -1,4 +1,4 @@
-
+@@ -1,25 +0,0 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
@@ -20,6 +20,8 @@ print_hi('Tom')
 {% endhighlight %}
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+![omori](https://wiwitorek.github.io/assets/images/omori6.png)
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
